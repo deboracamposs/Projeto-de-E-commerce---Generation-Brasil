@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/deboracamposs/Projeto-de-E-commerce#readme",
   "devDependencies": {
+    "@types/node": "^25.0.1",
     "@types/readline-sync": "^1.4.8"
   },
   "dependencies": {
-    "@types/node": "^25.0.1",
     "readline-sync": "^1.4.10"
   }
 }
