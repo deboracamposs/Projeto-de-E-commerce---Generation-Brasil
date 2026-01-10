@@ -1,6 +1,6 @@
 # Projeto de E-commerce --- Generation Brasil
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
